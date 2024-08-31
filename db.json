@@ -51,7 +51,7 @@
         {
             "id": 1,
             "userId": 1,
-            "image": "/assets/post/JennieKimPost.png",
+            "image": "https://i.pinimg.com/736x/56/ec/b2/56ecb2d98649a2dc95f4081a4ef5361e.jpg",
             "caption": "Lorem ipsum dolor sit amet consectetur adipiscing, elit non viverra vulputate ad faucibus nulla, et integer ut ullamcorper proin mi, aptent sem risus aliquet pellentesque. Faucibus",
             "likes": "300 K",
             "comments": "87K",
